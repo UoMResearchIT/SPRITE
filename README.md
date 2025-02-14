@@ -1,5 +1,6 @@
 # SPRITE
 
+* [Remove pages](https://github.com/UoMResearchIT/SPRITE/wiki/Remove-a-Page-in-WordPress)
 * [Formatting of pictures](https://github.com/UoMResearchIT/SPRITE/wiki/Formatting-of-Pictures)
 * [BeTheme Custom CSS and JS](https://github.com/UoMResearchIT/SPRITE/wiki/BeTheme-Custom-CSS-and-JS)
 * [Adding Content, Hyperlinks, and Embedding Videos](https://github.com/UoMResearchIT/SPRITE/wiki/Adding-Content,-Hyperlinks,-and-Embedding-Videos)
