@@ -1,5 +1,6 @@
 # SPRITE
 
+* [Add Custom Icons in BeTheme and New Social Media](https://github.com/UoMResearchIT/SPRITE/wiki/Add-Custom-Icons-in-BeTheme-and-New-Social-Media)
 * [Remove login functionality](https://github.com/UoMResearchIT/SPRITE/wiki/Remove-Login-Functionality)
 * [About site backup](https://github.com/UoMResearchIT/SPRITE/wiki/About-Site-Backup)
 * [Modify page visibility](https://github.com/UoMResearchIT/SPRITE/wiki/Modify-Page-Visibility)
